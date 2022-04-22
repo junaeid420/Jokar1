@@ -97,7 +97,7 @@ _ _    _ _   _          _____ _____
 AUTHOR   = JUNAEID AHMED
 FACEBOOK = Junaeid Ahmed
 GITHUB   = Junaeid420
-YOUTUBE  = Top Gaming Rj
+YOUTUBE  = NOT FOUND
 
 ====================================
    
@@ -114,7 +114,7 @@ def lisensi():
 def login():
     os.system('clear')
     print logo
-    print '\x1b[1;93m[1]\x1b[1;92m SUBSCRIBE MY YOUTUBE CHANNAL'
+    print '\x1b[1;93m[1]\x1b[1;92m FLOWE MY FACEBOOK '
     time.sleep(0.05)
     print '\x1b[1;93m[2]\x1b[1;92m EXIT '
     time.sleep(0.05)
@@ -128,7 +128,7 @@ def pilih_login():
         print '\x1b[1;97mFill In Correctly'
         pilih_login()
     elif peak == '1':
-        os.system('xdg-open  https://youtube.com/channel/UCG8CSxk8KQMZuVfRhCa6FBw')
+        os.system('xdg-open https://www.facebook.com/junaeid.ahmed.944 ')
         Zeek()
 
 
